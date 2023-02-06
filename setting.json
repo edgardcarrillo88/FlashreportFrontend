@@ -1,0 +1,62 @@
+{
+"lugar": [
+{"value":""},
+{"value":"Zona controlada"},
+{"value":"Zona no controlada"},
+{"value":"Comunidades"}
+],
+"area": [
+    {"value":""},
+    {"value":"Interior mina"},
+    {"value":"Planta pre-concentrado"},
+    {"value":"Plante de concentrado"}
+    ],
+"unidadminera": [
+    {"value":""},
+    {"value":"San Rafael"},
+    {"value":"Marcobre"},
+    {"value":"Raura"},
+    {"value":"Pucamarca"},
+    {"value":"Pisco"},
+    {"value":"Lima"}
+    ],
+"tipoaccidente": [
+    {"value":""},
+    {"value":"Manos"},
+    {"value":"Transito interno"},
+    {"value":"Transito externo"},
+    {"value":"Alcholy drogas"}
+    ],
+"Empresainvolucrada": [
+    {"value":""},
+    {"value":"Empresa 1"},
+    {"value":"Empresa 2"},
+    {"value":"Empresa 3"},
+    {"value":"Empresa 4"}
+    ],
+"gerencia": [
+    {"value":""},
+    {"value":"Seguridad"},
+    {"value":"Mina"},
+    {"value":"Planta"},
+    {"value":"Logísitca"},
+    {"value":"Operaciones"}
+    ],
+"consecuenciareal": [
+    {"value":""},
+    {"value":1},
+    {"value":2},
+    {"value":3},
+    {"value":4},
+    {"value":5}
+    ],
+"consecuenciapotencial": [
+    {"value":""},
+    {"value":"I"},
+    {"value":"II"},
+    {"value":"III"},
+    {"value":"IV"},
+    {"value":"V"}
+    ]
+    
+}
