@@ -46,9 +46,12 @@ function login(){
                     setdatosusuario(initialstateusers)
                 }if(data.guia==2){
                     console.log("inicio de sesión exitoso")
-                    setdatosusuario(initialstateusers)
+                    console.log(data.SetCookie);
 
-                router.push('/register')
+                    
+
+                    setdatosusuario(initialstateusers)
+                    router.push('/register')
                     
                 }else{
                     console.log("contraseña incorrecta")

@@ -40,7 +40,7 @@ const enviodeformulariouser = async (e) =>{
             })
 
             const data = await res.json()
-            alert(data.message)
+            // alert(data.message)
 
             console.log({data})
 

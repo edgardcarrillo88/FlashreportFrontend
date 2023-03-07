@@ -1,7 +1,9 @@
 import Layout from '../components/layout'
 import FlashReport from '../components/FlashReport'
+import Verify from './verify';
 
 export default function Home() {
+
   return (
 
     <Layout titlepage="inicio">
@@ -14,3 +16,5 @@ export default function Home() {
 
   )
 }
+
+
